@@ -5,7 +5,8 @@
 ---
 
 ### 💫 About Me 
-- 💻 Exploring: **DSA**, **Python**, and **Machine Learning**
+- 💻 Exploring: **DSA**, **Python**, **Machine Learning**, and **AI fundamentals**
+- 🎯 Currently learning: **Deep Learning**, **Neural Networks**, and **Model Training**
 - 👩‍💻 Solved **150+ problems** on LeetCode  
 - 🏆 Completed the **50 Days of LeetCode** challenge  
 - 🎨 Designing with **Figma** and developing full-stack apps with passion  
@@ -56,19 +57,24 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/gauri18" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/gauriborse_18" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:gauri8work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
 ```bash
+🚦 TRAFF-IQ – An AI-powered intelligent traffic management system  
+💼 Tech Stack: Python, OpenCV, Machine Learning, Flask  
+✨ Features: Real-time traffic density detection, smart signal control, and congestion analytics  
+🎯 Built to optimize urban traffic flow using AI-driven insights.
+
+
 🔒 Vaultify – A full-stack developer growth tracker  
 💼 Tech Stack: React, Next.js, Node.js, Express, MongoDB, TailwindCSS  
 ✨ Features: Add projects, track achievements, daily stats, AskVault AI, Codex notes  
 🎯 Built with the goal to help developers grow and showcase their journey!
-```
 
 ---
-
-<p align="center">✨ Thanks for visiting! Keep building. Keep dreaming. 🚀</p>
+<p align="center">✨ Thanks for visiting! Keep building. Keep dreaming. 🚀</p> 
