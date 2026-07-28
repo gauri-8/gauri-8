@@ -66,7 +66,7 @@ me.say_hi()
 
 | Platform | Handle | Stats |
 |:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /> | [`codeg18`](https://leetcode.com/codeg18) | 400+ Problems · 50 Day Streak 🔥 |
+| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /> | [`codeg18`](https://leetcode.com/codeg18) | 200+ Problems · 50 Day Streak 🔥 |
 | <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /> | [`codeg18`](https://www.codechef.com/users/codeg18) | ⭐⭐ 2-Star Rated |
 | <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /> | [`codeGauri`](https://codeforces.com/profile/codeGauri) | Pupil Rating 🟢 |
 | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> | [`gauri-8`](https://github.com/gauri-8) | Open Source · Projects |
